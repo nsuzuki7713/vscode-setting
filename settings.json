@@ -1,0 +1,21 @@
+{
+  "editor.renderWhitespace": "all",
+  "editor.minimap.enabled": false,
+  "editor.scrollBeyondLastLine": false,
+  "editor.wordWrap": "on",
+  "editor.fontSize": 14,
+  "editor.tabSize": 2,
+  "editor.renderControlCharacters": true,
+  "editor.copyWithSyntaxHighlighting": false,
+  "markdown.preview.breaks": true,
+  "window.newWindowDimensions": "inherit",
+  "window.openFoldersInNewWindow": "on",
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.copyOnSelection": true,
+  "breadcrumbs.symbolPath": "off",
+  "workbench.editor.enablePreview": false,
+  "workbench.iconTheme": "vscode-icons",
+  "gitProjectManager.baseProjectsFolders": [
+    "Gitのプロジェクトが存在するpath"
+  ],
+}
