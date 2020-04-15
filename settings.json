@@ -17,5 +17,5 @@
   "workbench.iconTheme": "vscode-icons",
   "gitProjectManager.baseProjectsFolders": [
     "Gitのプロジェクトが存在するpath"
-  ],
+  ]
 }

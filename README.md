@@ -5,6 +5,11 @@
 - `settings.json` : globalに反映している設定ファイル
 - `extensions.txt` : 拡張機能一覧
 
+# 拡張機能のinstallスクリプトを作成
+
+1. `./script/createInstallFile.sh` を実行
+2. 拡張機能のinstallスクリプトファイルが作成されます。(`extensions.txt` に記載しているものが対象です。)
+3. 2で作成した、 `./installExtensions.sh` を実行してinstallします。
 
 ## 拡張機能のコマンド
 
